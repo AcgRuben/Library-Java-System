@@ -1,5 +1,8 @@
 # Library Java System
 
+🌐 **Live Demo**: [https://library-java-system.onrender.com](https://library-java-system.onrender.com)  
+> *Note: Hosted on Render free tier; initial load may take 30–45 seconds if waking up from idle mode.*
+
 A Spring Boot REST API & Single Page Application for managing books, authors, users, and loans with role-based security.
 
 ## Features
